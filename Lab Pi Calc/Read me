@@ -1,0 +1,10 @@
+Задание
+Given the number of points N, generate a random distribution in (0, 0) − (1, 1) area and calculate the π number
+using CPU and GPU. The resulting π values should be printed out along with the execution times.
+
+Результаты
+Время GPU = 0.0013608932495117188
+Время CPU = 0.007158994674682617
+Ускорение = 5.260511562718991
+GPU: pi = 3.1332
+CPU: pi = 3.1332
